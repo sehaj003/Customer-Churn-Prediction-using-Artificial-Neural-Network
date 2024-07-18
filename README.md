@@ -52,14 +52,14 @@ The dataset used in this project is `Churn_Modelling.csv,` which contains inform
 The model's accuracy and loss during training and validation are plotted. The confusion matrix and final accuracy score are displayed to evaluate the model's performance.
 
 ### Final Model Performance
-- **Training Accuracy:** 86.09%
-- **Validation Accuracy:** 84.17%
-- **Test Accuracy:** 85.45%
+- **Training Accuracy:** 86.07%
+- **Validation Accuracy:** 84.74%
+- **Test Accuracy:** 85.6%
 - **Confusion Matrix:**
-    - True Negatives: 1534
-    - False Positives: 73
-    - False Negatives: 218
-    - True Positives: 175
+    - True Negatives: 1539
+    - False Positives: 68
+    - False Negatives: 220
+    - True Positives: 173
 
 ## Conclusion
 This project demonstrates the use of an artificial neural network to predict customer churn. The model is trained using the Keras library and evaluated using common metrics such as accuracy and confusion matrix.
