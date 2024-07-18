@@ -63,3 +63,10 @@ The model's accuracy and loss during training and validation are plotted. The co
 
 ## Conclusion
 This project demonstrates the use of an artificial neural network to predict customer churn. The model is trained using the Keras library and evaluated using common metrics such as accuracy and confusion matrix.
+
+## About Me
+My Name is Sehaj Malhotra I'm a graduate student at Northeastern University, pursuing my master's in Data Analytics Engineering. I have a strong passion for Data Analytics, Data Visualization, and Machine Learning. I am an aspiring Data Analyst/Data Scientist. I love working with data to extract valuable insights.
+
+MY LINKEDIN: https://www.linkedin.com/in/sehajmalhotra/
+
+MY KAGGLE: https://www.kaggle.com/sehaj2001
